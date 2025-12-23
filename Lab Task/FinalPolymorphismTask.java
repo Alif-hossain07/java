@@ -1,4 +1,4 @@
-public class polymorphism {
+public class FinalPolymorphism {
     static class Shape {
 
     Shape() {}

@@ -31,7 +31,7 @@ class FullTimeEmployee extends Employee {
 public class Main {
     public static void main(String[] args) {
 
-        FullTimeEmployee emp = new FullTimeEmployee("Rahim", 30000);
+        FullTimeEmployee emp = new FullTimeEmployee("Alif", 30000);
 
         emp.showDetails();
         System.out.println("Salary: " + emp.calculateSalary());
